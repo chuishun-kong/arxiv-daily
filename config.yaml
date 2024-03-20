@@ -39,5 +39,5 @@ keywords:
     # "NeRF":
     #     filters: ["NeRF"]
     "Hyperspectral Water Quality":
-        filters: ["Hyperspectral Water Quality", "Hyperspectral", "Water Quality"]	
+        filters: ["Hyperspectral Water Quality", "Hyperspectral", "Water Quality"]
 
