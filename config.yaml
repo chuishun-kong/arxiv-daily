@@ -39,11 +39,5 @@ keywords:
     # "NeRF":
     #     filters: ["NeRF"]
     "Hyperspectral Water Quality":
-        filters: ["Hyperspectral", "Water Quality"]	
-    "Hyperspectral":
-        filters: ["Hyperspectral"]
-    "Water Quality":
-        filters: ["Water Quality"]
-    "Machine Learning":
-        filters: ["Machine Learning", "Deep Learning", "Neural Network"]	
+        filters: ["Hyperspectral Water Quality", "Hyperspectral", "Water Quality"]	
 
