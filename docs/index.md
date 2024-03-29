@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2660,7 +2660,7 @@ layout: default
 |**2024-02-14**|**PocketWATCH: Design and operation of a multi-use test bed for water Cherenkov detector components in pure and gadolinium loaded water**|Matthew Thiesse et.al.|[2402.06565](http://arxiv.org/abs/2402.06565)|null|
 |**2024-02-07**|**Topological relations in water quality monitoring**|Bruno Chaves Figueiredo et.al.|[2402.04884](http://arxiv.org/abs/2402.04884)|null|
 |**2024-01-25**|**Precise Robotic Weed Spot-Spraying for Reduced Herbicide Usage and Improved Environmental Outcomes -- A Real-World Case Study**|Mostafa Rahimi Azghadi et.al.|[2401.13931](http://arxiv.org/abs/2401.13931)|null|
-|**2024-01-22**|**Quality-Aware Hydraulic Control in Drinking Water Networks via Controllability Proxies**|Salma M. Elsherif et.al.|[2401.12214](http://arxiv.org/abs/2401.12214)|null|
+|**2024-03-27**|**Quality-Aware Hydraulic Control in Drinking Water Networks via Controllability Proxies**|Salma M. Elsherif et.al.|[2401.12214](http://arxiv.org/abs/2401.12214)|null|
 |**2024-01-09**|**Deep Reinforcement Multi-agent Learning framework for Information Gathering with Local Gaussian Processes for Water Monitoring**|Samuel Yanes Luis et.al.|[2401.04631](http://arxiv.org/abs/2401.04631)|null|
 |**2024-01-08**|**Monitoring water contaminants in coastal areas through ML algorithms leveraging atmospherically corrected Sentinel-2 data**|Francesca Razzano et.al.|[2401.03792](http://arxiv.org/abs/2401.03792)|null|
 |**2024-01-15**|**A Hybrid Neural Network Model For Predicting The Nitrate Concentration In The Recirculating Aquaculture System**|Xiangyu Fan et.al.|[2401.01491](http://arxiv.org/abs/2401.01491)|null|
