@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|null|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
@@ -2657,6 +2658,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**IrrNet: Advancing Irrigation Mapping with Incremental Patch Size Training on Remote Sensing Imagery**|Oishee Bintey Hoque et.al.|[2404.11762](http://arxiv.org/abs/2404.11762)|null|
 |**2024-04-10**|**Research on Detection of Floating Objects in River and Lake Based on AI Intelligent Image Recognition**|Jingyu Zhang et.al.|[2404.06883](http://arxiv.org/abs/2404.06883)|null|
 |**2024-03-11**|**Monitoring the Venice Lagoon: an IoT Cloud-Based Sensor Nerwork Approach**|Filippo Campagnaro et.al.|[2403.06915](http://arxiv.org/abs/2403.06915)|null|
 |**2024-03-19**|**Investigating Changes of Water Quality in Reservoirs based on Flood and Inflow Fluctuations**|Shabnam Salehi et.al.|[2403.05671](http://arxiv.org/abs/2403.05671)|null|
