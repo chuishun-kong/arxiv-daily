@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -481,7 +481,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## SFM
 
@@ -654,7 +654,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1360,7 +1360,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1575,7 +1575,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1789,7 +1789,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## NeRF
 
@@ -2675,7 +2675,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 ## Hyperspectral Water Quality
 
@@ -2685,7 +2685,7 @@
 |**2024-04-18**|**Advancing Applications of Satellite Photogrammetry: Novel Approaches for Built-up Area Modeling and Natural Environment Monitoring using Stereo/Multi-view Satellite Image-derived 3D Data**|Shengxi Gui et.al.|[2404.12487](http://arxiv.org/abs/2404.12487)|null|
 |**2024-04-17**|**IrrNet: Advancing Irrigation Mapping with Incremental Patch Size Training on Remote Sensing Imagery**|Oishee Bintey Hoque et.al.|[2404.11762](http://arxiv.org/abs/2404.11762)|null|
 |**2024-04-19**|**Research on Detection of Floating Objects in River and Lake Based on AI Intelligent Image Recognition**|Jingyu Zhang et.al.|[2404.06883](http://arxiv.org/abs/2404.06883)|null|
-|**2024-03-11**|**Monitoring the Venice Lagoon: an IoT Cloud-Based Sensor Nerwork Approach**|Filippo Campagnaro et.al.|[2403.06915](http://arxiv.org/abs/2403.06915)|null|
+|**2024-04-29**|**Monitoring the Venice Lagoon: an IoT Cloud-Based Sensor Nerwork Approach**|Filippo Campagnaro et.al.|[2403.06915](http://arxiv.org/abs/2403.06915)|null|
 |**2024-03-19**|**Investigating Changes of Water Quality in Reservoirs based on Flood and Inflow Fluctuations**|Shabnam Salehi et.al.|[2403.05671](http://arxiv.org/abs/2403.05671)|null|
 |**2024-03-07**|**Real-time Regulation of Detention Ponds via Feedback Control: Balancing Flood Mitigation and Water Quality**|Marcus Nóbrega Gomes Jr et.al.|[2403.04675](http://arxiv.org/abs/2403.04675)|null|
 |**2024-02-14**|**PocketWATCH: Design and operation of a multi-use test bed for water Cherenkov detector components in pure and gadolinium loaded water**|Matthew Thiesse et.al.|[2402.06565](http://arxiv.org/abs/2402.06565)|null|
@@ -2696,7 +2696,7 @@
 |**2024-01-08**|**Monitoring water contaminants in coastal areas through ML algorithms leveraging atmospherically corrected Sentinel-2 data**|Francesca Razzano et.al.|[2401.03792](http://arxiv.org/abs/2401.03792)|null|
 |**2024-01-15**|**A Hybrid Neural Network Model For Predicting The Nitrate Concentration In The Recirculating Aquaculture System**|Xiangyu Fan et.al.|[2401.01491](http://arxiv.org/abs/2401.01491)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
