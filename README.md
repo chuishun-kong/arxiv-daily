@@ -2682,6 +2682,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**AI techniques for near real-time monitoring of contaminants in coastal waters on board future Phisat-2 mission**|Francesca Razzano et.al.|[2404.19586](http://arxiv.org/abs/2404.19586)|null|
 |**2024-04-23**|**Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case**|Muhammad Asif Auyb et.al.|[2404.14977](http://arxiv.org/abs/2404.14977)|null|
 |**2024-04-18**|**Advancing Applications of Satellite Photogrammetry: Novel Approaches for Built-up Area Modeling and Natural Environment Monitoring using Stereo/Multi-view Satellite Image-derived 3D Data**|Shengxi Gui et.al.|[2404.12487](http://arxiv.org/abs/2404.12487)|null|
 |**2024-04-17**|**IrrNet: Advancing Irrigation Mapping with Incremental Patch Size Training on Remote Sensing Imagery**|Oishee Bintey Hoque et.al.|[2404.11762](http://arxiv.org/abs/2404.11762)|null|
