@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
+|**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
 |**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082](http://arxiv.org/abs/2405.15082)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
@@ -2688,6 +2690,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**A Toolbox for Supporting Research on AI in Water Distribution Networks**|André Artelt et.al.|[2406.02078](http://arxiv.org/abs/2406.02078)|null|
 |**2024-04-30**|**AI techniques for near real-time monitoring of contaminants in coastal waters on board future Phisat-2 mission**|Francesca Razzano et.al.|[2404.19586](http://arxiv.org/abs/2404.19586)|null|
 |**2024-04-23**|**Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case**|Muhammad Asif Auyb et.al.|[2404.14977](http://arxiv.org/abs/2404.14977)|null|
 |**2024-04-18**|**Advancing Applications of Satellite Photogrammetry: Novel Approaches for Built-up Area Modeling and Natural Environment Monitoring using Stereo/Multi-view Satellite Image-derived 3D Data**|Shengxi Gui et.al.|[2404.12487](http://arxiv.org/abs/2404.12487)|null|
