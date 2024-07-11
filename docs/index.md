@@ -2673,6 +2673,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-30**|**Analysis of Seawater Quality Parameter and Treatment with Hydrodynamic Cavitation Method**|Divya Patil et.al.|[2407.07115](http://arxiv.org/abs/2407.07115)|null|
 |**2024-06-04**|**A Toolbox for Supporting Research on AI in Water Distribution Networks**|André Artelt et.al.|[2406.02078](http://arxiv.org/abs/2406.02078)|null|
 |**2024-04-30**|**AI techniques for near real-time monitoring of contaminants in coastal waters on board future Phisat-2 mission**|Francesca Razzano et.al.|[2404.19586](http://arxiv.org/abs/2404.19586)|null|
 |**2024-04-23**|**Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case**|Muhammad Asif Auyb et.al.|[2404.14977](http://arxiv.org/abs/2404.14977)|null|
