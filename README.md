@@ -2698,6 +2698,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Nanoscale Water Behavior and Its Impact on Adsorption: A case study with CNTs and Diclofenac**|Patrick R. B. Côrtes et.al.|[2407.16631](http://arxiv.org/abs/2407.16631)|null|
+|**2024-07-22**|**Time-resolving PIV measurements and modal analysis of turbulent flow in a bench-scale hydrodynamic separator**|Haochen Li et.al.|[2407.16045](http://arxiv.org/abs/2407.16045)|null|
 |**2024-06-30**|**Analysis of Seawater Quality Parameter and Treatment with Hydrodynamic Cavitation Method**|Divya Patil et.al.|[2407.07115](http://arxiv.org/abs/2407.07115)|null|
 |**2024-06-04**|**A Toolbox for Supporting Research on AI in Water Distribution Networks**|André Artelt et.al.|[2406.02078](http://arxiv.org/abs/2406.02078)|null|
 |**2024-04-30**|**AI techniques for near real-time monitoring of contaminants in coastal waters on board future Phisat-2 mission**|Francesca Razzano et.al.|[2404.19586](http://arxiv.org/abs/2404.19586)|null|
