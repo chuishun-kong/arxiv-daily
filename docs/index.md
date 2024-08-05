@@ -2678,6 +2678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**A Short-Term Planning Framework for the Operation of Tanker-Based Water Distribution Systems in Urban Areas**|Abhilasha Maheshwari et.al.|[2408.01184](http://arxiv.org/abs/2408.01184)|null|
 |**2024-07-22**|**Unlocking the Potential: Benchmarking Large Language Models in Water Engineering and Research**|Boyan Xu et.al.|[2407.21045](http://arxiv.org/abs/2407.21045)|null|
 |**2024-07-23**|**Nanoscale Water Behavior and Its Impact on Adsorption: A case study with CNTs and Diclofenac**|Patrick R. B. Côrtes et.al.|[2407.16631](http://arxiv.org/abs/2407.16631)|null|
 |**2024-07-22**|**Time-resolving PIV measurements and modal analysis of turbulent flow in a bench-scale hydrodynamic separator**|Haochen Li et.al.|[2407.16045](http://arxiv.org/abs/2407.16045)|null|
