@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2685,7 +2685,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-12**|**Disinfectant Control in Drinking Water Networks: Integrating Advection-Dispersion-Reaction Models and Byproduct Constraints**|Salma M. Elsherif et.al.|[2409.08157](http://arxiv.org/abs/2409.08157)|null|
+|**2024-09-13**|**Disinfectant Control in Drinking Water Networks: Integrating Advection-Dispersion-Reaction Models and Byproduct Constraints**|Salma M. Elsherif et.al.|[2409.08157](http://arxiv.org/abs/2409.08157)|null|
 |**2024-09-11**|**Unsupervised anomaly detection in spatio-temporal stream network sensor data**|Edgar Santos-Fernandez et.al.|[2409.07667](http://arxiv.org/abs/2409.07667)|null|
 |**2024-08-31**|**A method for detecting dead fish on large water surfaces based on improved YOLOv10**|Qingbin Tian et.al.|[2409.00388](http://arxiv.org/abs/2409.00388)|null|
 |**2024-08-27**|**Improving Water Quality Time-Series Prediction in Hong Kong using Sentinel-2 MSI Data and Google Earth Engine Cloud Computing**|Rohin Sood et.al.|[2408.14010](http://arxiv.org/abs/2408.14010)|null|
