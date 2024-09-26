@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2691,7 +2691,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization**|Kaustubh Joshi et.al.|[2409.11578](http://arxiv.org/abs/2409.11578)|null|
 |**2024-09-17**|**WaterQualityNeT: Prediction of Seasonal Water Quality of Nepal Using Hybrid Deep Learning Models**|Biplov Paneru et.al.|[2409.10898](http://arxiv.org/abs/2409.10898)|null|
-|**2024-09-23**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-13**|**Disinfectant Control in Drinking Water Networks: Integrating Advection-Dispersion-Reaction Models and Byproduct Constraints**|Salma M. Elsherif et.al.|[2409.08157](http://arxiv.org/abs/2409.08157)|null|
 |**2024-09-11**|**Unsupervised anomaly detection in spatio-temporal stream network sensor data**|Edgar Santos-Fernandez et.al.|[2409.07667](http://arxiv.org/abs/2409.07667)|null|
 |**2024-08-31**|**A method for detecting dead fish on large water surfaces based on improved YOLOv10**|Qingbin Tian et.al.|[2409.00388](http://arxiv.org/abs/2409.00388)|null|
