@@ -2712,6 +2712,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**LSTM networks provide efficient cyanobacterial blooms forecasting even with incomplete spatio-temporal data**|Claudia Fournier et.al.|[2410.08237](http://arxiv.org/abs/2410.08237)|null|
 |**2024-10-08**|**Towards an Autonomous Surface Vehicle Prototype for Artificial Intelligence Applications of Water Quality Monitoring**|Luis Miguel Díaz et.al.|[2410.05892](http://arxiv.org/abs/2410.05892)|null|
 |**2024-09-17**|**3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization**|Kaustubh Joshi et.al.|[2409.11578](http://arxiv.org/abs/2409.11578)|null|
 |**2024-09-17**|**WaterQualityNeT: Prediction of Seasonal Water Quality of Nepal Using Hybrid Deep Learning Models**|Biplov Paneru et.al.|[2409.10898](http://arxiv.org/abs/2409.10898)|null|
