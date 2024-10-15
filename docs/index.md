@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
 |**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
@@ -2691,6 +2692,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513](http://arxiv.org/abs/2410.09513)|null|
 |**2024-10-09**|**LSTM networks provide efficient cyanobacterial blooms forecasting even with incomplete spatio-temporal data**|Claudia Fournier et.al.|[2410.08237](http://arxiv.org/abs/2410.08237)|null|
 |**2024-10-08**|**Towards an Autonomous Surface Vehicle Prototype for Artificial Intelligence Applications of Water Quality Monitoring**|Luis Miguel Díaz et.al.|[2410.05892](http://arxiv.org/abs/2410.05892)|null|
 |**2024-09-17**|**3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization**|Kaustubh Joshi et.al.|[2409.11578](http://arxiv.org/abs/2409.11578)|null|
