@@ -2713,6 +2713,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**A multiscale method for data collected from network edges via the line graph**|Dingjia Cao et.al.|[2410.13693](http://arxiv.org/abs/2410.13693)|null|
 |**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513](http://arxiv.org/abs/2410.09513)|null|
 |**2024-10-09**|**LSTM networks provide efficient cyanobacterial blooms forecasting even with incomplete spatio-temporal data**|Claudia Fournier et.al.|[2410.08237](http://arxiv.org/abs/2410.08237)|null|
 |**2024-10-08**|**Towards an Autonomous Surface Vehicle Prototype for Artificial Intelligence Applications of Water Quality Monitoring**|Luis Miguel Díaz et.al.|[2410.05892](http://arxiv.org/abs/2410.05892)|null|
