@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2693,7 +2693,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-19**|**Water quality polluted by total suspended solids classified within an Artificial Neural Network approach**|I. Luviano Soto et.al.|[2410.14929](http://arxiv.org/abs/2410.14929)|null|
-|**2024-10-18**|**IoT-Based Water Quality Monitoring System in Philippine Off-Grid Communities**|Jenny Vi Abrajano et.al.|[2410.14619](http://arxiv.org/abs/2410.14619)|null|
+|**2024-10-22**|**IoT-Based Water Quality Monitoring System in Philippine Off-Grid Communities**|Jenny Vi Abrajano et.al.|[2410.14619](http://arxiv.org/abs/2410.14619)|null|
 |**2024-10-17**|**A multiscale method for data collected from network edges via the line graph**|Dingjia Cao et.al.|[2410.13693](http://arxiv.org/abs/2410.13693)|null|
 |**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513](http://arxiv.org/abs/2410.09513)|null|
 |**2024-10-09**|**LSTM networks provide efficient cyanobacterial blooms forecasting even with incomplete spatio-temporal data**|Claudia Fournier et.al.|[2410.08237](http://arxiv.org/abs/2410.08237)|null|
