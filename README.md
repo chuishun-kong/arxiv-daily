@@ -2715,6 +2715,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-03**|**Performance Evaluation of Deep Learning Models for Water Quality Index Prediction: A Comparative Study of LSTM, TCN, ANN, and MLP**|Muhammad Ismail et.al.|[2411.01527](http://arxiv.org/abs/2411.01527)|null|
+|**2024-11-02**|**Control Node Placement and Structural Controllability of Water Quality Dynamics in Drinking Networks**|Salma M. Elsherif et.al.|[2411.01361](http://arxiv.org/abs/2411.01361)|null|
 |**2024-10-30**|**TumblerBots: Tumbling Robotic sensors for Minimally-invasive Benthic Monitoring**|L. Romanello et.al.|[2410.23049](http://arxiv.org/abs/2410.23049)|null|
 |**2024-10-19**|**Water quality polluted by total suspended solids classified within an Artificial Neural Network approach**|I. Luviano Soto et.al.|[2410.14929](http://arxiv.org/abs/2410.14929)|null|
 |**2024-10-22**|**IoT-Based Water Quality Monitoring System in Philippine Off-Grid Communities**|Jenny Vi Abrajano et.al.|[2410.14619](http://arxiv.org/abs/2410.14619)|null|
