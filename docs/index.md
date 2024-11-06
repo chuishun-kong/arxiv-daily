@@ -2694,6 +2694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**A numerical study on temperature destratification induced by bubble plumes in idealized reservoirs**|Yiran Li et.al.|[2411.03120](http://arxiv.org/abs/2411.03120)|null|
 |**2024-11-03**|**Performance Evaluation of Deep Learning Models for Water Quality Index Prediction: A Comparative Study of LSTM, TCN, ANN, and MLP**|Muhammad Ismail et.al.|[2411.01527](http://arxiv.org/abs/2411.01527)|null|
 |**2024-11-02**|**Control Node Placement and Structural Controllability of Water Quality Dynamics in Drinking Networks**|Salma M. Elsherif et.al.|[2411.01361](http://arxiv.org/abs/2411.01361)|null|
 |**2024-10-30**|**TumblerBots: Tumbling Robotic sensors for Minimally-invasive Benthic Monitoring**|L. Romanello et.al.|[2410.23049](http://arxiv.org/abs/2410.23049)|null|
