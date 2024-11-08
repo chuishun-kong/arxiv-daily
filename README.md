@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
@@ -2715,6 +2716,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Observability and Generalized Sensor Placement for Nonlinear Quality Models in Drinking Water Networks**|Mohamad H. Kazma et.al.|[2411.04202](http://arxiv.org/abs/2411.04202)|null|
 |**2024-11-05**|**A numerical study on temperature destratification induced by bubble plumes in idealized reservoirs**|Yiran Li et.al.|[2411.03120](http://arxiv.org/abs/2411.03120)|null|
 |**2024-11-03**|**Performance Evaluation of Deep Learning Models for Water Quality Index Prediction: A Comparative Study of LSTM, TCN, ANN, and MLP**|Muhammad Ismail et.al.|[2411.01527](http://arxiv.org/abs/2411.01527)|null|
 |**2024-11-02**|**Control Node Placement and Structural Controllability of Water Quality Dynamics in Drinking Networks**|Salma M. Elsherif et.al.|[2411.01361](http://arxiv.org/abs/2411.01361)|null|
