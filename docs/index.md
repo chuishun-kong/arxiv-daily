@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2700,7 +2700,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-20**|**Adaptive Process-Guided Learning: An Application in Predicting Lake DO Concentrations**|Runlong Yu et.al.|[2411.12973](http://arxiv.org/abs/2411.12973)|**[link](https://github.com/RunlongYu/April)**|
-|**2024-11-06**|**Observability and Generalized Sensor Placement for Nonlinear Quality Models in Drinking Water Networks**|Mohamad H. Kazma et.al.|[2411.04202](http://arxiv.org/abs/2411.04202)|null|
+|**2024-11-26**|**Observability and Generalized Sensor Placement for Nonlinear Quality Models in Drinking Water Networks**|Mohamad H. Kazma et.al.|[2411.04202](http://arxiv.org/abs/2411.04202)|null|
 |**2024-11-05**|**A numerical study on temperature destratification induced by bubble plumes in idealized reservoirs**|Yiran Li et.al.|[2411.03120](http://arxiv.org/abs/2411.03120)|null|
 |**2024-11-03**|**Performance Evaluation of Deep Learning Models for Water Quality Index Prediction: A Comparative Study of LSTM, TCN, ANN, and MLP**|Muhammad Ismail et.al.|[2411.01527](http://arxiv.org/abs/2411.01527)|null|
 |**2024-11-02**|**Control Node Placement and Structural Controllability of Water Quality Dynamics in Drinking Networks**|Salma M. Elsherif et.al.|[2411.01361](http://arxiv.org/abs/2411.01361)|null|
