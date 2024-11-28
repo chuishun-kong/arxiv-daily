@@ -2699,6 +2699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Predicting Water Quality using Quantum Machine Learning: The Case of the Umgeni Catchment (U20A) Study Region**|Muhammad Al-Zafar Khan et.al.|[2411.18141](http://arxiv.org/abs/2411.18141)|null|
 |**2024-11-20**|**Adaptive Process-Guided Learning: An Application in Predicting Lake DO Concentrations**|Runlong Yu et.al.|[2411.12973](http://arxiv.org/abs/2411.12973)|**[link](https://github.com/RunlongYu/April)**|
 |**2024-11-26**|**Observability and Generalized Sensor Placement for Nonlinear Quality Models in Drinking Water Networks**|Mohamad H. Kazma et.al.|[2411.04202](http://arxiv.org/abs/2411.04202)|null|
 |**2024-11-05**|**A numerical study on temperature destratification induced by bubble plumes in idealized reservoirs**|Yiran Li et.al.|[2411.03120](http://arxiv.org/abs/2411.03120)|null|
