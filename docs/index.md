@@ -2701,6 +2701,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Improving Satellite Imagery Masking using Multi-task and Transfer Learning**|Rangel Daroya et.al.|[2412.08545](http://arxiv.org/abs/2412.08545)|null|
 |**2024-11-28**|**Enhancing Accuracy and Efficiency in Calibration of Drinking Water Distribution Networks Through Evolutionary Artificial Neural Networks and Expert Systems**|Cristian Gomez et.al.|[2411.19387](http://arxiv.org/abs/2411.19387)|null|
 |**2024-11-27**|**Predicting Water Quality using Quantum Machine Learning: The Case of the Umgeni Catchment (U20A) Study Region**|Muhammad Al-Zafar Khan et.al.|[2411.18141](http://arxiv.org/abs/2411.18141)|null|
 |**2024-11-20**|**Adaptive Process-Guided Learning: An Application in Predicting Lake DO Concentrations**|Runlong Yu et.al.|[2411.12973](http://arxiv.org/abs/2411.12973)|**[link](https://github.com/RunlongYu/April)**|
