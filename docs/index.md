@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
 |**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-19**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
@@ -2705,6 +2706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-28**|**The destabilising effect of particle concentration in inclined settlers**|Cristian Reyes et.al.|[2412.20284](http://arxiv.org/abs/2412.20284)|null|
 |**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
 |**2024-12-11**|**Improving Satellite Imagery Masking using Multi-task and Transfer Learning**|Rangel Daroya et.al.|[2412.08545](http://arxiv.org/abs/2412.08545)|null|
 |**2024-11-28**|**Enhancing Accuracy and Efficiency in Calibration of Drinking Water Distribution Networks Through Evolutionary Artificial Neural Networks and Expert Systems**|Cristian Gomez et.al.|[2411.19387](http://arxiv.org/abs/2411.19387)|null|
