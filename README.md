@@ -2727,6 +2727,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Analyzing Spatio-Temporal Dynamics of Dissolved Oxygen for the River Thames using Superstatistical Methods and Machine Learning**|Hankun He et.al.|[2501.07599](http://arxiv.org/abs/2501.07599)|null|
 |**2025-01-07**|**Stochastic volatility model with long memory for water quantity-quality dynamics**|Hidekazu Yoshioka et.al.|[2501.03725](http://arxiv.org/abs/2501.03725)|null|
 |**2024-12-28**|**The destabilising effect of particle concentration in inclined settlers**|Cristian Reyes et.al.|[2412.20284](http://arxiv.org/abs/2412.20284)|null|
 |**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
