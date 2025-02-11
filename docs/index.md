@@ -2709,6 +2709,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Application of Artificial Intelligence (AI) in Civil Engineering**|Temitope Funmilayo Awolusi et.al.|[2502.06727](http://arxiv.org/abs/2502.06727)|null|
 |**2025-01-11**|**Prediction Model of Aqua Fisheries Using IoT Devices**|Md. Monirul Islam et.al.|[2501.10430](http://arxiv.org/abs/2501.10430)|null|
 |**2025-01-10**|**Analyzing Spatio-Temporal Dynamics of Dissolved Oxygen for the River Thames using Superstatistical Methods and Machine Learning**|Hankun He et.al.|[2501.07599](http://arxiv.org/abs/2501.07599)|null|
 |**2025-01-07**|**Stochastic volatility model with long memory for water quantity-quality dynamics**|Hidekazu Yoshioka et.al.|[2501.03725](http://arxiv.org/abs/2501.03725)|null|
