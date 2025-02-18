@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
@@ -2732,11 +2733,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Non-Markovian superposition process model for stochastically describing concentration-discharge relationship**|Hidekazu Yoshioka et.al.|[2502.10535](http://arxiv.org/abs/2502.10535)|null|
 |**2025-02-12**|**Efficient Split Learning LSTM Models for FPGA-based Edge IoT Devices**|Romina Soledad Molina et.al.|[2502.08692](http://arxiv.org/abs/2502.08692)|null|
 |**2025-02-10**|**Application of Artificial Intelligence (AI) in Civil Engineering**|Temitope Funmilayo Awolusi et.al.|[2502.06727](http://arxiv.org/abs/2502.06727)|null|
 |**2025-01-11**|**Prediction Model of Aqua Fisheries Using IoT Devices**|Md. Monirul Islam et.al.|[2501.10430](http://arxiv.org/abs/2501.10430)|null|
 |**2025-01-10**|**Analyzing Spatio-Temporal Dynamics of Dissolved Oxygen for the River Thames using Superstatistical Methods and Machine Learning**|Hankun He et.al.|[2501.07599](http://arxiv.org/abs/2501.07599)|null|
-|**2025-02-14**|**Stochastic volatility model with long memory for water quantity-quality dynamics**|Hidekazu Yoshioka et.al.|[2501.03725](http://arxiv.org/abs/2501.03725)|null|
+|**2025-02-17**|**Stochastic volatility model with long memory for water quantity-quality dynamics**|Hidekazu Yoshioka et.al.|[2501.03725](http://arxiv.org/abs/2501.03725)|null|
 |**2024-12-28**|**The destabilising effect of particle concentration in inclined settlers**|Cristian Reyes et.al.|[2412.20284](http://arxiv.org/abs/2412.20284)|null|
 |**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
 |**2024-12-11**|**Improving Satellite Imagery Masking using Multi-task and Transfer Learning**|Rangel Daroya et.al.|[2412.08545](http://arxiv.org/abs/2412.08545)|null|
