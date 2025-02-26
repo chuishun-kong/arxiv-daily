@@ -2713,6 +2713,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Integrating Boosted learning with Differential Evolution (DE) Optimizer: A Prediction of Groundwater Quality Risk Assessment in Odisha**|Sonalika Subudhi et.al.|[2502.17929](http://arxiv.org/abs/2502.17929)|null|
 |**2025-02-18**|**Decoding the spatial spread of cyanobacterial blooms in an epilimnion**|Jacob Serpico et.al.|[2502.12399](http://arxiv.org/abs/2502.12399)|null|
 |**2025-02-14**|**Non-Markovian superposition process model for stochastically describing concentration-discharge relationship**|Hidekazu Yoshioka et.al.|[2502.10535](http://arxiv.org/abs/2502.10535)|null|
 |**2025-02-12**|**Efficient Split Learning LSTM Models for FPGA-based Edge IoT Devices**|Romina Soledad Molina et.al.|[2502.08692](http://arxiv.org/abs/2502.08692)|null|
