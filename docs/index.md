@@ -2721,6 +2721,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Large Language Models for Water Distribution Systems Modeling and Decision-Making**|Yinon Goldshtein et.al.|[2503.16191](http://arxiv.org/abs/2503.16191)|null|
 |**2025-03-13**|**Identifying Trustworthiness Challenges in Deep Learning Models for Continental-Scale Water Quality Prediction**|Xiaobo Xia et.al.|[2503.09947](http://arxiv.org/abs/2503.09947)|null|
 |**2025-03-10**|**Water Quality Data Imputation via A Fast Latent Factorization of Tensors with PID-based Optimizer**|Qian Liu et.al.|[2503.06997](http://arxiv.org/abs/2503.06997)|null|
 |**2025-02-25**|**Integrating Boosted learning with Differential Evolution (DE) Optimizer: A Prediction of Groundwater Quality Risk Assessment in Odisha**|Sonalika Subudhi et.al.|[2502.17929](http://arxiv.org/abs/2502.17929)|null|
