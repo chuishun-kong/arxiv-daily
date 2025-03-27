@@ -2743,6 +2743,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
 |**2025-03-20**|**Large Language Models for Water Distribution Systems Modeling and Decision-Making**|Yinon Goldshtein et.al.|[2503.16191](http://arxiv.org/abs/2503.16191)|null|
 |**2025-03-13**|**Identifying Trustworthiness Challenges in Deep Learning Models for Continental-Scale Water Quality Prediction**|Xiaobo Xia et.al.|[2503.09947](http://arxiv.org/abs/2503.09947)|null|
 |**2025-03-10**|**Water Quality Data Imputation via A Fast Latent Factorization of Tensors with PID-based Optimizer**|Qian Liu et.al.|[2503.06997](http://arxiv.org/abs/2503.06997)|null|
