@@ -2747,6 +2747,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Dominating Hyperplane Regularization for Variable Selection in Multivariate Count Regression**|Alysha Cooper et.al.|[2504.05034](http://arxiv.org/abs/2504.05034)|null|
 |**2025-03-29**|**Community-driven and water quality indicators of sanitation system failures in a rural U.S. community**|Lorelay Mendoza Grijalva et.al.|[2503.22938](http://arxiv.org/abs/2503.22938)|null|
 |**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
 |**2025-03-20**|**Large Language Models for Water Distribution Systems Modeling and Decision-Making**|Yinon Goldshtein et.al.|[2503.16191](http://arxiv.org/abs/2503.16191)|null|
