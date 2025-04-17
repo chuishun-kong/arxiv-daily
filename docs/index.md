@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
@@ -2726,6 +2727,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Evaluating the Effects of Organic vs. Conventional Farming on Aquifer Water Quality**|Marta Llorente et.al.|[2504.12152](http://arxiv.org/abs/2504.12152)|null|
 |**2025-04-07**|**Dominating Hyperplane Regularization for Variable Selection in Multivariate Count Regression**|Alysha Cooper et.al.|[2504.05034](http://arxiv.org/abs/2504.05034)|null|
 |**2025-03-29**|**Community-driven and water quality indicators of sanitation system failures in a rural U.S. community**|Lorelay Mendoza Grijalva et.al.|[2503.22938](http://arxiv.org/abs/2503.22938)|null|
 |**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
