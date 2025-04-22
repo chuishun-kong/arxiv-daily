@@ -2748,6 +2748,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**A Causal Convolutional Low-rank Representation Model for Imputation of Water Quality Data**|Xin Liao et.al.|[2504.15209](http://arxiv.org/abs/2504.15209)|null|
+|**2025-04-20**|**An LLM-enabled Multi-Agent Autonomous Mechatronics Design Framework**|Zeyu Wang et.al.|[2504.14681](http://arxiv.org/abs/2504.14681)|null|
 |**2025-04-16**|**Evaluating the Effects of Organic vs. Conventional Farming on Aquifer Water Quality**|Marta Llorente et.al.|[2504.12152](http://arxiv.org/abs/2504.12152)|null|
 |**2025-04-07**|**Dominating Hyperplane Regularization for Variable Selection in Multivariate Count Regression**|Alysha Cooper et.al.|[2504.05034](http://arxiv.org/abs/2504.05034)|null|
 |**2025-03-29**|**Community-driven and water quality indicators of sanitation system failures in a rural U.S. community**|Lorelay Mendoza Grijalva et.al.|[2503.22938](http://arxiv.org/abs/2503.22938)|null|
