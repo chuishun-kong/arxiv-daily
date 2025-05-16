@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2732,7 +2732,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-02**|**AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data**|Ioannis Nasios et.al.|[2505.03808](http://arxiv.org/abs/2505.03808)|null|
+|**2025-05-02**|**AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data**|Ioannis Nasios et.al.|[2505.03808](http://arxiv.org/abs/2505.03808)|**[link](https://github.com/ioannisnasios/harmfulalgalbloomdetection)**|
 |**2025-05-03**|**Multi-Scale Graph Learning for Anti-Sparse Downscaling**|Yingda Fan et.al.|[2505.01948](http://arxiv.org/abs/2505.01948)|null|
 |**2025-04-21**|**A Causal Convolutional Low-rank Representation Model for Imputation of Water Quality Data**|Xin Liao et.al.|[2504.15209](http://arxiv.org/abs/2504.15209)|null|
 |**2025-04-20**|**An LLM-enabled Multi-Agent Autonomous Mechatronics Design Framework**|Zeyu Wang et.al.|[2504.14681](http://arxiv.org/abs/2504.14681)|null|
