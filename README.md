@@ -2755,6 +2755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**AquaMonitor: A multimodal multi-view image sequence dataset for real-life aquatic invertebrate biodiversity monitoring**|Mikko Impiö et.al.|[2505.22065](http://arxiv.org/abs/2505.22065)|null|
 |**2025-05-23**|**Decomposition of Water Demand Patterns Using Skewed Gaussian Distributions for Behavioral Insights and Operational Planning**|Roy Elkayam et.al.|[2505.18245](http://arxiv.org/abs/2505.18245)|**[link](https://github.com/relkayam/water-demand-decomposition-sgd)**|
 |**2025-05-23**|**Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning**|Yiqing Guo et.al.|[2505.17483](http://arxiv.org/abs/2505.17483)|null|
 |**2025-05-02**|**AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data**|Ioannis Nasios et.al.|[2505.03808](http://arxiv.org/abs/2505.03808)|**[link](https://github.com/ioannisnasios/harmfulalgalbloomdetection)**|
